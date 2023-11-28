@@ -1,6 +1,6 @@
 # Wecode-48-3rd-TickeyTicket-backend
 
-3rd Project Refactoring
+## 3rd Project Refactoring
 
 # Introduce Project
 # 🟦 온라인 이벤트 티켓팅 플랫폼
@@ -19,10 +19,3 @@
 3. **예약 확인**
    - 티켓 QR 발급 기능을 제공합니다.
    - 예약한 공연에 대한 리뷰를 작성할 수 있습니다.
-
-## 🚀 시작하기
-
-1. **프로젝트 클론:**
-   ```bash
-   git clone https://github.com/your-username/ticketing-platform.git
-   cd ticketing-platform
