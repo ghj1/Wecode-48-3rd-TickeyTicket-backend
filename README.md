@@ -5,6 +5,29 @@
 
 문화 상품을 구매하고 판매하는 온라인 이벤트 티켓팅 플랫폼으로, 대형 공연 외 작은 공연 및 전시 등을 등록, 관리 및 예약할 수 있는 서비스입니다.
 
+## 💡 기술 스택
+
+- **FrontEnd:**
+  - React
+  - Javascript
+  - styled-components
+  - Html
+  - sass
+
+- **BackEnd:**
+  - Javascript
+  - NodeJs
+  - Express
+  - Mysql
+
+- **공통:**
+  - AWS
+  - Git
+  - Github
+  - Trello
+  - Notion
+  - Slack
+
 ## 📍핵심 기능 목록
 
 1. **지도 API**
