@@ -28,6 +28,8 @@
   - Notion
   - Slack
 
+
+
 ## 📍핵심 기능 목록
 
 1. **지도 API**
@@ -40,3 +42,8 @@
 3. **예약 확인**
    - 티켓 QR 발급 기능을 제공합니다.
    - 예약한 공연에 대한 리뷰를 작성할 수 있습니다.
+  
+
+## 💾 ERD Diagram
+![Tickey Ticket Refactoring](https://github.com/ghj1/Wecode-48-3rd-TickeyTicket-backend/assets/90584168/03d4a332-1431-418a-b89b-59d824938e51)
+
