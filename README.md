@@ -5,6 +5,9 @@
 
 문화 상품을 구매하고 판매하는 온라인 이벤트 티켓팅 플랫폼으로, 대형 공연 외 작은 공연 및 전시 등을 등록, 관리 및 예약할 수 있는 서비스입니다.
 
+
+
+
 ## 💡 기술 스택
 
 - **FrontEnd:**
@@ -43,6 +46,9 @@
    - 티켓 QR 발급 기능을 제공합니다.
    - 예약한 공연에 대한 리뷰를 작성할 수 있습니다.
   
+
+
+
 
 ## 💾 ERD Diagram
 ![Tickey Ticket Refactoring](https://github.com/ghj1/Wecode-48-3rd-TickeyTicket-backend/assets/90584168/03d4a332-1431-418a-b89b-59d824938e51)
